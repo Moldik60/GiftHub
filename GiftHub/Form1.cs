@@ -21,5 +21,10 @@ namespace GiftHub
         {
             MessageBox.Show("Ahoj");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("koghuzrz");
+        }
     }
 }
