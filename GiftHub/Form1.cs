@@ -19,7 +19,7 @@ namespace GiftHub
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("TYYY KOKOS");
+            MessageBox.Show("Ahoj");
         }
     }
 }
